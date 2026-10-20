@@ -54,6 +54,22 @@
       "icon": "https://chatocean.clyn.com.vn/movian/motchill.png"
     },
     {
+      "type": "ecmascript",
+      "apiversion": 2,
+      "id": "opensubtitles",
+      "title": "OpenSubtitles",
+      "synopsis": "Subtitles from OpenSubtitles.com",
+      "description": "<p>Search and download subtitles from OpenSubtitles.com (API v1).</p><p>Get a free API key at <a href=\"https://www.opensubtitles.com/en/consumers\">opensubtitles.com/en/consumers</a>. Optional login raises the daily download limit.</p>",
+      "version": "1.0.0",
+      "author": "tvhung83",
+      "homepage": "https://github.com/m-plugs/movian-plugin-opensubtitles",
+      "showtimeVersion": "5.0.0",
+      "icon": "https://raw.githubusercontent.com/m-plugs/movian-plugin-opensubtitles/HEAD/logo.png",
+      "category": "subtitles",
+      "downloadURL": "https://github.com/m-plugs/movian-plugin-opensubtitles/releases/download/1.0.0/opensubtitles-1.0.0.zip",
+      "file": "opensubtitles.js"
+    },
+    {
       "id": "fshare",
       "version": "1.0.0",
       "type": "ecmascript",
