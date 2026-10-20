@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "phimmedia",
+      "author": "chatocean",
+      "version": "0.2.13",
+      "type": "ecmascript",
+      "showtimeVersion": "7.0.0",
+      "title": "Phim Media",
+      "synopsis": "PhimMedia.Tv - Xem phim mới chất lượng cao",
+      "description": "<p>PhimMedia.Tv - Xem phim mới chất lượng cao tại <a href=\"https://phimlongtieng.link/\">https://phimlongtieng.link/</a>",
+      "category": "video",
+      "downloadURL": "https://chatocean.clyn.com.vn/movian/phimmedia_0.2.13.zip",
+      "icon": "https://chatocean.clyn.com.vn/movian/phimmedia.png"
+    },
+    {
+      "id": "thuviencine",
+      "author": "chatocean",
+      "version": "0.1.4",
+      "type": "ecmascript",
+      "showtimeVersion": "7.0.0",
+      "title": "Thu Vien Cine",
+      "synopsis": "Thư Viện Cine - Kho giải trí tổng hợp Download link Fshare Miễn Phí",
+      "description": "<p>ThuVienCine.Com - Kho giải trí tổng hợp Download link Fshare Miễn Phí, visit <a href=\"https://thuviencine.com/\">https://thuviencine.com/</a></p>",
+      "category": "video",
+      "downloadURL": "https://chatocean.clyn.com.vn/movian/thuviencine_0.1.4.zip",
+      "icon": "https://chatocean.clyn.com.vn/movian/thuviencine.png"
+    },
+    {
+      "id": "hoathinh3d",
+      "author": "chatocean",
+      "version": "0.1.14",
+      "type": "ecmascript",
+      "showtimeVersion": "7.0.0",
+      "title": "Hoạt Hình 3D",
+      "synopsis": "Hoạt Hình 3D - Xem phim > Hoạt Hình Trung Quốc",
+      "description": "<p>Hoạt Hình Trung Quốc – Xem Hoạt Hình 3D Hay tại <a href=\"https://hoathinh3d.gg\">https://hoathinh3d.gg</a></p>",
+      "category": "video",
+      "downloadURL": "https://chatocean.clyn.com.vn/movian/hoathinh3d_0.1.14.zip",
+      "icon": "https://chatocean.clyn.com.vn/movian/hoathinh3d.png"
+    },
+    {
+      "id": "motchill",
+      "author": "chatocean",
+      "version": "0.2.2",
+      "type": "ecmascript",
+      "showtimeVersion": "7.0.0",
+      "title": "MotChill",
+      "synopsis": "MotChill - Xem phim mới chất lượng cao",
+      "description": "<p>MotChill - Xem phim mới chất lượng cao tại <a href=\"https://motchillzr.cc\">https://motchillzr.cc</a>",
+      "category": "video",
+      "downloadURL": "https://chatocean.clyn.com.vn/movian/motchill_0.2.2.zip",
+      "icon": "https://chatocean.clyn.com.vn/movian/motchill.png"
+    },
+    {
+      "id": "fshare",
+      "version": "1.0.0",
+      "type": "ecmascript",
+      "showtimeVersion": "5.0",
+      "title": "Fshare",
+      "synopsis": "Fshare",
+      "description": "Fshare là dịch vụ lưu trữ và chia sẻ dữ liệu trực tuyến",
+      "category": "video",
+      "downloadURL": "https://github.com/m-plugs/movian-plugin-fshare/releases/download/1.0.0/fshare-1.0.0.zip",
+      "icon": "https://raw.githubusercontent.com/m-plugs/movian-plugin-fshare/HEAD/logo.png"
+    },
+    {
+      "type": "ecmascript",
+      "apiversion": 2,
+      "id": "rap",
+      "title": "Rạp",
+      "synopsis": "Browse and play your self-hosted movie library",
+      "description": "Browse movies and TV shows indexed by your personal media server: search, genre browsing, recently added/uploaded, and direct playback of Fshare and NAS-backed media.",
+      "version": "1.2.0",
+      "author": "tvhung83",
+      "homepage": "https://fim.uk.to",
+      "showtimeVersion": "5.0",
+      "icon": "https://raw.githubusercontent.com/m-plugs/movian-plugin-rap/HEAD/icon.png",
+      "category": "video",
+      "downloadURL": "https://github.com/m-plugs/movian-plugin-rap/releases/download/1.2.0/rap-1.2.0.zip",
+      "file": "rap.js"
+    }
+  ],
+  "cc": "VN"
+}
