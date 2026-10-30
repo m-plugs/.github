@@ -30,14 +30,14 @@
     {
       "id": "hoathinh3d",
       "author": "chatocean",
-      "version": "0.1.14",
+      "version": "0.1.15",
       "type": "ecmascript",
       "showtimeVersion": "7.0.0",
       "title": "Hoạt Hình 3D",
       "synopsis": "Hoạt Hình 3D - Xem phim > Hoạt Hình Trung Quốc",
       "description": "<p>Hoạt Hình Trung Quốc – Xem Hoạt Hình 3D Hay tại <a href=\"https://hoathinh3d.gg\">https://hoathinh3d.gg</a></p>",
       "category": "video",
-      "downloadURL": "https://chatocean.clyn.com.vn/movian/hoathinh3d_0.1.14.zip",
+      "downloadURL": "https://chatocean.clyn.com.vn/movian/hoathinh3d_0.1.15.zip",
       "icon": "https://chatocean.clyn.com.vn/movian/hoathinh3d.png"
     },
     {
